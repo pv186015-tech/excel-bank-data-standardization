@@ -1,10 +1,6 @@
 # Excel VBA automation for multi-source bank data
 ## Sample Screenshots
 
-![Input File](screenshots/input_headers.png)
-![Mapping Logic](screenshots/mapping_logic.png)
-![Final Output](screenshots/final_output.png)
-
 Excel Automation for Multi-Source Bank Data Standardization 
 
 Project Summary
