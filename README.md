@@ -1,6 +1,5 @@
-# excel-bank-data-standardization
-Excel VBA automation for multi-source bank data
-Excel Automation for Multi-Source Bank Data Standardization (RTA Operations)
+# Excel VBA automation for multi-source bank data
+Excel Automation for Multi-Source Bank Data Standardization 
 
 Project Summary
 Designed and implemented an Excel-based automation to standardize and consolidate unstructured Excel and CSV data received from multiple external sources.
