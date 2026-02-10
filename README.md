@@ -1,5 +1,11 @@
 # Excel VBA automation for multi-source bank data
 ## Sample Screenshots
+## Sample Screenshots
+
+![Input File](screenshots/input_file.png)
+![File Selection](screenshots/file_selection.png)
+![File Location](screenshots/file_location.png)
+![Final Output](screenshots/final_output.png)
 
 Excel Automation for Multi-Source Bank Data Standardization 
 
